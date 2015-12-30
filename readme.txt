@@ -9,8 +9,6 @@ some ting is over
 Creating a new branch is quick and simple.
 new change
 try again
-<<<<<<< HEAD
 
-=======
-hello 
->>>>>>> dev
+hello
+vulcan is ok
